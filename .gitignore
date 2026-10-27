@@ -1,0 +1,12 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Compilación
+bin/
+obj/
+
+# Archivos temporales de Power BI y Office
+~$*
+*.pbix.lock
